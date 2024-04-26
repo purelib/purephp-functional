@@ -1,6 +1,6 @@
 <?php
 
-namespace purephp\functional\maonad\contract;
+namespace purephp\functional\monad\contract;
 
 use Stringable;
 

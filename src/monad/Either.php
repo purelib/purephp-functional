@@ -1,8 +1,8 @@
 <?php
 
-namespace purephp\functional\maonad;
+namespace purephp\functional\monad;
 
-use purephp\functional\maonad\contract\Either as ContractEither;
+use purephp\functional\monad\contract\Either as ContractEither;
 
 class Either implements ContractEither
 {
