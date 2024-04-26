@@ -1,0 +1,11 @@
+{
+    "name": "purephp/functional",
+    "type": "library",
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Purephp\\Functional\\": "src/"
+        }
+    },
+    "require": {}
+}
